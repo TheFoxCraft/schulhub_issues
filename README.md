@@ -2,9 +2,15 @@
 Feature Ideen und Bug Tracker für das Private Projekt SchulHub
 
 
+##Vorneweg:
+Du brauchst hierzu einen Github Account.
+
+Bitte schaue vorher kurz nach, ob der Fehler oder deine Idee schon geteilt wurde,
+um duplikate zu vermeiden.
+
 # So meldest du einen neuen Bug:
 
-Navigiere oben zu "Issues",
+Navigiere "[Issues](github.com/TheFoxCraft/schulhub_issues/issues)",
 dort kannst du einen Neuen "Issue" erstellen,
 gib ihm einen Ausagekräftigen Titel und 
 beschreibe so genau wie möglich. 
@@ -22,7 +28,7 @@ Die passenden Labels werden dann von mir gesetzt.
 
 # So machst du eine neue Feature Request
 
-Navigiere oben zu "Issues",
+Navigiere "[Issues](github.com/TheFoxCraft/schulhub_issues/issues)",
 dort kannst du einen Neuen "Issue" erstellen.
 (Der Name passt nicht perfekt, spielt aber keine Rolle)
 Gib deiner Idee einen aussagekräftigen Titel und beschreibe
