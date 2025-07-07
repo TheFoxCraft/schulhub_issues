@@ -10,7 +10,7 @@ um duplikate zu vermeiden.
 
 # So meldest du einen neuen Bug:
 
-Navigiere "[Issues](github.com/TheFoxCraft/schulhub_issues/issues)",
+Navigiere "[Issues](https://github.com/TheFoxCraft/schulhub_issues/issues)",
 dort kannst du einen Neuen "Issue" erstellen,
 gib ihm einen Ausagekräftigen Titel und 
 beschreibe so genau wie möglich. 
@@ -28,7 +28,7 @@ Die passenden Labels werden dann von mir gesetzt.
 
 # So machst du eine neue Feature Request
 
-Navigiere "[Issues](github.com/TheFoxCraft/schulhub_issues/issues)",
+Navigiere "[Issues](https://github.com/TheFoxCraft/schulhub_issues/issues)",
 dort kannst du einen Neuen "Issue" erstellen.
 (Der Name passt nicht perfekt, spielt aber keine Rolle)
 Gib deiner Idee einen aussagekräftigen Titel und beschreibe
