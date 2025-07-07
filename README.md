@@ -2,7 +2,7 @@
 Feature Ideen und Bug Tracker für das Private Projekt SchulHub
 
 
-##Vorneweg:
+#Vorneweg:
 Du brauchst hierzu einen Github Account.
 
 Bitte schaue vorher kurz nach, ob der Fehler oder deine Idee schon geteilt wurde,
